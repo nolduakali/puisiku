@@ -1,7 +1,7 @@
-#Ari Ade Supriyatna
-#SDN 1 Banjar
-#SMPN 7 Banjar
-#SMK NU 2 Banjar
+# Ari Ade Supriyatna
+# SDN 1 Banjar
+# SMPN 7 Banjar
+# SMK NU 2 Banjar
 
 
 
